@@ -1,0 +1,24 @@
+<style>
+	table {
+		font-family: times new roman, sans-serif;
+		border-collapse: collapse;
+		width: 100%;
+	}
+				
+	td, th {
+		border-collapse: collapse;
+	    border: 1.5px solid white;
+	    text-align: left;
+	    padding: 8px;
+	    padding: 10px;
+	    
+	}
+	td {
+
+	    background-color: #f1f1f1;
+	}
+	th {
+
+	    background-color: #778899;
+	}
+</style>
